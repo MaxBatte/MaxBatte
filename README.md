@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MassimilianoBattellia&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassimilianoBattelli&layout=compact&theme=radical&langs_count=8&hide=language1/github.com/MassimilianoBattelli/github-readme-stats)
 <!--
 **MassimilianoBattelli/MassimilianoBattelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

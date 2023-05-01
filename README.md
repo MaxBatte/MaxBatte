@@ -1,5 +1,5 @@
 My most remarkable projects:
-- Website with Nuxt, Bootstrap, Mysql: https://github.com/gerardocipriano/prenotiamo
+- Website with Nuxt, Bootstrap, SQL: https://github.com/gerardocipriano/prenotiamo
 - Card game with Java, JavaFX: https://github.com/gerardocipriano/pss22-Game-of-Cards
 <!--
 **MassimilianoBattelli/MassimilianoBattelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

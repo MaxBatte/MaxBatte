@@ -1,4 +1,3 @@
 # My projects:
-* Website with ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white): https://github.com/gerardocipriano/prenotiamo
-* Card game with ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white): https://github.com/gerardocipriano/pss22-Game-of-Cards
-
+* Website with <a href="https://nuxt.com/blog/v3">Nuxtjs</a>, <a href="https://getbootstrap.com/">Bootstrap</a>, <a href="https://www.mysql.com/it/">MySQL</a>: &#8594;https://github.com/gerardocipriano/prenotiamo
+* Card game with <a href="https://www.java.com/it/">Java</a>: &#8594;https://github.com/gerardocipriano/pss22-Game-of-Cards

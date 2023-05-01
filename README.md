@@ -1,4 +1,4 @@
-My most remarkable projects:
+My biggest projects:
 - Website with Nuxt, Bootstrap, SQL: https://github.com/gerardocipriano/prenotiamo
 - Card game with Java, JavaFX: https://github.com/gerardocipriano/pss22-Game-of-Cards
 <!--

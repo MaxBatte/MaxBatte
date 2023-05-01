@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassimilianoBattelli&exclude_repo=TSI-Coffee-machine-Consumption&layout=compact&theme=radical&langs_count=8&hide=language1/github.com/MassimilianoBattelli/github-readme-stats)
+My most remarkable projects:
+- https://github.com/gerardocipriano/prenotiamo
+- https://github.com/gerardocipriano/pss22-Game-of-Cards
 <!--
 **MassimilianoBattelli/MassimilianoBattelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

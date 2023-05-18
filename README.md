@@ -1,3 +1,9 @@
+
 # My projects:
-* Website with <a href="https://nuxt.com/blog/v3">Nuxtjs</a>, <a href="https://getbootstrap.com/">Bootstrap</a>, <a href="https://www.mysql.com/it/">MySQL</a>: &#8594;https://github.com/gerardocipriano/prenotiamo
-* Card game with <a href="https://www.java.com/it/">Java</a>: &#8594;https://github.com/gerardocipriano/pss22-Game-of-Cards
+<ul style="list-style-type: none;">
+    <li><a href="https://github.com/MassimilianoBattelli/DadJokes"><img src="https://github.com/MassimilianoBattelli/DadJokes/blob/main/app/src/main/res/app-icon.png" alt="DadJokes" width="80" height="80"></a></li>
+    <li><a href="https://github.com/gerardocipriano/prenotiamo"><img src="https://github.com/gerardocipriano/prenotiamo/blob/main/src/public/img/logo.png" alt="Prenotiamo!" width="80" height="80"></a></li>
+    <li><a href="https://github.com/gerardocipriano/pss22-Game-of-Cards"><img src="https://github.com/gerardocipriano/pss22-Game-of-Cards/blob/main/src/main/resources/images/logo1.jpg" alt="Game Of Cards" width="80" height="80"></a></li>
+</ul>
+
+

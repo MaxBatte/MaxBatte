@@ -1,4 +1,4 @@
-# My projects:
+# Main Projects:
 <div>
 <a href="https://github.com/MassimilianoBattelli/DadJokes"><img src="https://github.com/MassimilianoBattelli/DadJokes/blob/main/app/src/main/res/app-icon.png" alt="My Image" width="80" height="80"></a>
 <a href="https://github.com/gerardocipriano/prenotiamo"><img src="https://github.com/gerardocipriano/prenotiamo/blob/main/src/public/img/logo.png" alt="My Image" width="80" height="80"></a>

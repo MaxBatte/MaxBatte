@@ -1,3 +1,4 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-battelli/) 
 ## Progetti di Laurea:
 
 ### Kotlin:
@@ -16,6 +17,5 @@
 > <a href="https://github.com/gerardocipriano/VisiTrack-VisitorManagement"><img src="https://github.com/gerardocipriano/VisiTrack-VisitorManagement/blob/main/img/visitrack_logo.png" alt="Visitrack" width="80" height="80"></a>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-battelli/) 
 
 
